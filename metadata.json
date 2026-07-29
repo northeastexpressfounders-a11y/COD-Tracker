@@ -1,0 +1,6 @@
+{
+  "name": "Last Mile Delivery DC Cash & Online Deposit Portal",
+  "description": "Distribution Center deposit management portal with Google Authentication, Rider cash denomination breakdown, online transaction screenshot upload, and admin deposit table analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
